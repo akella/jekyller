@@ -11,11 +11,11 @@ default_lang: en
 default_body_class: list
 
 author:
-    name: Vadim Makeev
-    url:  http://pepelsbey.net/
+    name: Yuri Artiukh
+    url:  http://cssing.org.ua/
     company:
-        name: Opera Software
-        url:  http://opera.com
+        name: Coderiver
+        url:  http://coderiver.com.ua
 
 fork_url: https://github.com/shower/shower
 progress: true
